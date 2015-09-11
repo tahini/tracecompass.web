@@ -1,1 +1,1 @@
-<?php header('Location: http://eclipse.org/projects/project.php?id=tools.tracecompass'); ?>
+<?php header('Location: http://tracecompass.org'); ?>
