@@ -1,1 +1,1 @@
-<?php header('Location: http://tracecompass.org'); ?>
+<?php header('Location: index.html'); ?>
